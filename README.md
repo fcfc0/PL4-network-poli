@@ -6,7 +6,6 @@
 O **Network Poli** é uma plataforma pensada para facilitar a conexão entre alunos e ex-alunos da Escola Politécnica da USP com interesses em comum, especialmente aqueles que buscam ou já atuam nas áreas de consultoria, tecnologia e negócios. A ideia é criar uma rede de networking mais acessível e bem estruturada, promovendo trocas de experiências, mentorias, cafés e até indicações para vagas.
 
 ## Tecnologias (desejadas)
-- 
 - Plataforma simples e funcional, que funcione bem no computador e celular.
 - Interface visual agradável, com páginas que carregam rápido e permitam ao usuário se cadastrar, procurar pessoas e se conectar
 - Sistema por trás que cuide dos dados e regras, como salvar informações dos usuários e garantir que só pessoas autorizadas acessem certas partes
